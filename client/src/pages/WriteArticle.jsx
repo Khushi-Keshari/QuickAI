@@ -86,7 +86,7 @@ const WriteArticle = () => {
                 </div>
             </div>
           ):(
-            <div className='mt-3 w-full min-h-[300px] overflow-y-scroll text-sm text-slate-600 whitespace-pre-wrap text-left'>
+            <div className='mt-3 w-full min-h-[300px] overflow-y-scroll text-sm text-slate-600  text-left'>
               <div className='reset-tw'>
                 <Markdown>{content}</Markdown>
               </div>
