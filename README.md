@@ -38,7 +38,6 @@ The dashboard provides:
 **AI Features**  
 ![AI Features](https://github.com/user-attachments/assets/89e76a5d-1f4d-4fc6-995f-66da14bb24db)
 
-> ℹ️ You can replace the image paths with actual screenshots stored in an `assets/` folder.
 
 ---
 
